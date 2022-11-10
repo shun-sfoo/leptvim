@@ -1,0 +1,12 @@
+[submodule "nvim-lspconfig"]
+	path = pack/plugins/opt/nvim-lspconfig
+	url = https://github.com/neovim/nvim-lspconfig
+	branch = master
+[submodule "nvim-treesitter"]
+	path = pack/plugins/opt/nvim-treesitter
+	url = https://github.com/nvim-treesitter/nvim-treesitter
+	branch = master
+[submodule "mini.nvim"]
+	path = pack/plugins/opt/mini.nvim
+	url = https://github.com/echasnovski/mini.nvim
+	branch = main
